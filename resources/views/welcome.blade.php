@@ -48,6 +48,8 @@
                 </tr>
             </tbody>
         @endforeach
+
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid sed iste, ratione consectetur quasi eligendi autem! Eos mollitia doloremque modi, voluptates culpa eaque illo nobis expedita, odit esse nemo ratione.</p>
         
     </table>
 @endsection
